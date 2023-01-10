@@ -1,0 +1,13 @@
+.nav,
+.home,
+.toggle {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 0.5rem;
+}
+
+.dark {
+  background-color: #20252b;
+  color: #fff;
+}
